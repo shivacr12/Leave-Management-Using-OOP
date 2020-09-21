@@ -1,2 +1,2 @@
-# this page is only for initialization
+# This page is only for initialization.
 #fkjbvkdfjb
